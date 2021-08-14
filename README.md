@@ -35,7 +35,7 @@ Provas e desenvolvimento de exercícios e trabalhos práticos dentro e fora da c
 
 ### Método de avaliação
 
-Trabalho escrito, no caso, foi produzida a resenha *[Uma análise comparativa entre "Lá vem todo mundo" e "The Net Delusion"](Cultura-Digital/Uma-análise-comparativa-entre-"Lá-vem-todo-mundo"-e-"The-Net-Delusion")*.
+Trabalho escrito, no caso, foi produzida a resenha *[Uma análise comparativa entre "Lá vem todo mundo" e "The Net Delusion"](Cultura-Digital/Uma-análise-comparativa-entre-"Lá-vem-todo-mundo"-e-"The-Net-Delusion".md)*.
 
 ### Tópicos abordados
 
@@ -49,10 +49,10 @@ Apresentação de programas desenvolvidos em linguagem C.
 
 #### Programas
 
-1. **[caixa_eletrônico.c](Introdução-à-Programação/EP1/caixa_eletrônico.c)**: calcula o número mínimo de cédulas necessário para satisfazer um determinado valor monetário;
-2. **[triângulo.c](Introdução-à-Programação/EP1/triângulo.c)**: descreve um triângulo com base nas medidas dos seus lados;
-3. **[raiz.c](Introdução-à-Programação/EP2/raiz.c)**: calcula a raiz quadrada de um dado número real utilizando-se do método de bipartição;
-4. **[desenhar.c](Introdução-à-Programação/EP2/desenhar.c)**: desenha imagens de acordo com dadas instruções que lhe são passadas.
+1. **[caixa_eletrônico.c](Introdução à Programação/EP1/caixa_eletrônico.c)**: calcula o número mínimo de cédulas necessário para satisfazer um determinado valor monetário;
+2. **[triângulo.c](Introdução à Programação/EP1/triângulo.c)**: descreve um triângulo com base nas medidas dos seus lados;
+3. **[raiz.c](Introdução à Programação/EP2/raiz.c)**: calcula a raiz quadrada de um dado número real utilizando-se do método de bipartição;
+4. **[desenhar.c](Introdução à Programação/EP2/desenhar.c)**: desenha imagens de acordo com dadas instruções que lhe são passadas.
 
 ### Tópicos abordados
 
@@ -62,13 +62,14 @@ Conceitos básicos de computação, e lógica de programação sob o paradigma i
 
 ### Método de avaliação
 
-Produção de [resenhas]() dos conteúdos abordados em aula e apresentação de seminários.
+Produção de [fichamentos](Fundamentos de Sistemas de Informação/Fichamentos) dos conteúdos abordados em aula e apresentação de seminários.
 
 #### Seminários
 
-1. [Uma análise do SiSU enquanto Sistema de Informação](https://htp.live/videos/watch/4cc10b60-426e-4abe-a73a-1c18a60b028f)
-
-2. [Estudo de tema de computação: Software e Hardware livres](https://htp.live/videos/watch/d47af8d9-151f-4655-bdc4-03684b4dee88)
+| Título | Gravação | Material |
+| --- | --- | --- |
+Uma análise do SiSU enquanto Sistema de Informação | [Vídeo](https://tv1.gomntu.space/w/xrLUUM6ksxuZ7EUKCc5wtt) | [Slides e artigo](Fundamentos de Sistemas de Informação/Trabalho 1: Descrição de um SI específico (SISU))
+Estudo de tema de computação: Software e Hardware livres | [Vídeo](https://tv1.gomntu.space/w/cRM2rmhTeCh1wbVazwaenD) | [Slides](Fundamentos  de Sistemas de Informação/Trabalho 2: Vídeo sobre tema em computação (software e hardware livres))
 
 ### Tópicos abordados
 
@@ -82,9 +83,9 @@ Provas, desenvolvimento de exercícios e trabalhos práticos dentro e fora da cl
 
 #### Relatórios
 
-- [Aplicação de Software Livre na confecção de planilhas e histogramas](tratamento-e-análise-de-dados-e-Informações/relatórios/01---aplicação-de-software-livre-na-confecção-de-planilhas-e-histogramas.pdf)
+- [Aplicação de Software Livre na confecção de planilhas e histogramas](Tratamento e Análise de Dados e Informações/Relatórios/01 - Aplicação de Software Livre na confecção de planilhas e histogramas.pdf)
 
-- [Aplicação de métodos estatísticos na análise de tendências de avaliação entre grupos de alunos](tratamento-e-análise-de-dados-e-Informações/relatórios/03---aplicação-de-métodos-estatísticos-na-análise-de-tendências-de-avaliação-entre-grupos-de-alunos.pdf)
+- [Aplicação de métodos estatísticos na análise de tendências de avaliação entre grupos de alunos](03 - Aplicação de métodos estatísticos na análise de tendências de avaliação entre grupos de alunos.pdf)
 
 ### Tópicos abordados
 
