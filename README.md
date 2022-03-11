@@ -2,14 +2,15 @@
 
 > Documentação de trabalhos desenvolvidos
 
-## Disciplinas
-
-1. [Cálculo I](#cálculo-I)
-2. [Cultura Digital](#cultura-digital)
-3. [Fundamentos de Sistemas de Informação](#fundamentos-de-sistemas-de-informação)
-4. [Introdução à Programação](#introdução-à-programação)
-5. Resolução de Problemas I
-6. [Tratamento e Análise de Dados e Informações](#tratamento-e-análise-de-dados-e-informações)
+| Disciplinas                                                                                 | Nota |
+| ------------------------------------------------------------------------------------------- | ---- |
+| [Cálculo](#cálculo-I)                                                                       | 6.0  |
+| [Cultura Digital](#cultura-digital)                                                         | 10.0 |
+| [Fundamentos de Sistemas de Informação](#fundamentos-de-sistemas-de-informação)             | 7.2  |
+| [Introdução à Programação](#introdução-à-programação)                                       | 9.5  |
+| Resolução de Problemas I                                                                    | 9.0  |
+| [Tratamento e Análise de Dados e Informações](#tratamento-e-análise-de-dados-e-informações) | 9.0  |
+| Média ponderada ao final do semestre                                                        | 8.3  |
 
 ## Cálculo I
 
@@ -66,10 +67,10 @@ Produção de [fichamentos](Fundamentos%20de%20Sistemas%20de%20Informa%C3%A7%C3%
 
 #### Seminários
 
-| Título | Gravação | Material |
-| --- | --- | --- |
-Uma análise do SiSU enquanto Sistema de Informação | [Vídeo](https://tv1.gomntu.space/w/xrLUUM6ksxuZ7EUKCc5wtt) | [Slides e artigo](Fundamentos%20de%20Sistemas%20de%20Informa%C3%A7%C3%A3o/Trabalho%201%3A%20Descri%C3%A7%C3%A3o%20de%20um%20SI%20espec%C3%ADfico%20%28SISU%29)
-Estudo de tema de computação: Software e Hardware livres | [Vídeo](https://tv1.gomntu.space/w/cRM2rmhTeCh1wbVazwaenD) | [Slides](Fundamentos%20de%20Sistemas%20de%20Informa%c3%a7%c3%a3o/Trabalho%202:%20V%c3%addeo%20sobre%20tema%20em%20computa%c3%a7%c3%a3o%20%28software%20e%20hardware%20livres%29)
+| Título                                                   | Gravação                                                   | Material                                                                                                                                                                         |
+| -------------------------------------------------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Uma análise do SiSU enquanto Sistema de Informação       | [Vídeo](https://tv1.gomntu.space/w/xrLUUM6ksxuZ7EUKCc5wtt) | [Slides e artigo](Fundamentos%20de%20Sistemas%20de%20Informa%C3%A7%C3%A3o/Trabalho%201%3A%20Descri%C3%A7%C3%A3o%20de%20um%20SI%20espec%C3%ADfico%20%28SISU%29)                   |
+| Estudo de tema de computação: Software e Hardware livres | [Vídeo](https://tv1.gomntu.space/w/cRM2rmhTeCh1wbVazwaenD) | [Slides](Fundamentos%20de%20Sistemas%20de%20Informa%c3%a7%c3%a3o/Trabalho%202:%20V%c3%addeo%20sobre%20tema%20em%20computa%c3%a7%c3%a3o%20%28software%20e%20hardware%20livres%29) |
 
 ### Tópicos abordados
 
@@ -90,6 +91,5 @@ Provas, desenvolvimento de exercícios e trabalhos práticos dentro e fora da cl
 ### Tópicos abordados
 
 Estatística descritiva. Técnicas de coleta de dados e informações, sua análise e interpretação. Tomada de decisão baseada em metodologia estatística.
-
 
 **[⬆ retornar ao topo](#primeiro-semestre-de-sistemas-de-informação)**
